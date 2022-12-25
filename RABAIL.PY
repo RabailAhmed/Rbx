@@ -493,7 +493,6 @@ banner="""\033[1;37m
  [*]=============================================
     Author   : RABAIL AHMED 
     Facebook : https://www.facebook.com/profile.php?id=100021675640763
-    Connect  : @@@@@@@@@
  [*]=============================================
    \033[1;31m  Use (Flight) Airplane Mod For Speed Up \033[1;37m
  [*]============================================="""
@@ -527,12 +526,12 @@ def convert(cok):
 	return __for
 
 def dupcutter():
-	os.system("xdg-open https://wa.me/+923237528063")
+	os.system("xdg-open ")
 	time.sleep(3)
 	readline___Public_Xml()
 def sep():
 	logo()
-	os.system("xdg-open https://youtube.com/channel/UCQpAVshBhhz1KF-HyiciQvA")
+	os.system("xdg-open ")
 	time.sleep(3)
 	readline___Public_Xml()
     
