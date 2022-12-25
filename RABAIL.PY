@@ -525,13 +525,13 @@ def convert(cok):
 			'xs='+cok['xs'] )
 	return __for
 
-def dupcutter():
-	os.system("xdg-open ")
+def def dupcutter():
+	os.system("xdg-open https://wa.me/+923237528063")
 	time.sleep(3)
 	readline___Public_Xml()
 def sep():
 	logo()
-	os.system("xdg-open ")
+	os.system("xdg-open https://youtube.com/channel/UCQpAVshBhhz1KF-HyiciQvA")
 	time.sleep(3)
 	readline___Public_Xml()
     
