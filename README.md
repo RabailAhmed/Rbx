@@ -1,2 +1,2 @@
 # Rbx
-# cd rbxteat02
+# cd rbxtest02
